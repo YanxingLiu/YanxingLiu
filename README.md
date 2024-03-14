@@ -1,6 +1,8 @@
 ### Hi 👋, I am Liu Yanxing.
-![LiuYanxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiuYanxing)
-
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=LiuYanxing&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=LiuYanxing&hide_border=true" />
+</p>
 <!--
 **YanxingLiu/YanxingLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
