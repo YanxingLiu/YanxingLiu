@@ -2,8 +2,7 @@
 <h3 align="center">👀 I am a Ph.D student at UCAS and my research interests include Deep Learning, particularly in the field of Object Detction, Diffusion Generating, Remote-Sensing Image Processing
  and Multi-Modal Modeling. </h3>
 <p align="center">
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=LiuYanxing&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=LiuYanxing&hide_border=true" />
+<img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=LiuYanxing&hide_border=true" />
 </p>
 <!--
 **YanxingLiu/YanxingLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
